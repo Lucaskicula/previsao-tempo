@@ -2,8 +2,6 @@
 
 Aplicativo Flutter para consultar as condições atuais e a previsão de sete dias de uma cidade. Projeto acadêmico sobre API REST, requisições HTTP, JSON e métodos assíncronos.
 
-Repositório: https://github.com/Lucaskicula/previsao-tempo
-
 ## Funcionalidades
 
 - Busca de cidades pelo nome, com estado e país para escolher a localidade correta.
@@ -77,4 +75,18 @@ Os testes usam um cliente HTTP simulado para verificar parâmetros das URLs, lei
 
 ## Entrega
 
-O código-fonte está neste repositório. O [relatório PDF](docs/relatorio-clima-agora.pdf) contém seis capturas reais e a identificação da API. As [capturas originais](docs/capturas/) também estão disponíveis. Consulte o documento para ver o aplicativo funcionando.
+[Baixar o relatório em PDF](docs/relatorio-clima-agora.pdf), com as capturas de tela e a identificação da API utilizada.
+
+Capturas do aplicativo em funcionamento na versão web, em tamanho de celular:
+
+| Tela inicial | Busca de cidades |
+| --- | --- |
+| <img src="docs/capturas/01-inicio.png" alt="Tela inicial do Clima Agora" width="280"> | <img src="docs/capturas/02-busca.png" alt="Resultados da busca por Curitiba" width="280"> |
+
+| Condições atuais | Previsão de sete dias |
+| --- | --- |
+| <img src="docs/capturas/03-condicoes.png" alt="Condições atuais do tempo em Curitiba" width="280"> | <img src="docs/capturas/04-sete-dias.png" alt="Previsão do tempo para sete dias" width="280"> |
+
+| Busca sem resultado | Falha de conexão |
+| --- | --- |
+| <img src="docs/capturas/05-sem-resultado.png" alt="Mensagem de cidade não encontrada" width="280"> | <img src="docs/capturas/06-sem-conexao.png" alt="Mensagem de falha de conexão e botão para tentar novamente" width="280"> |
