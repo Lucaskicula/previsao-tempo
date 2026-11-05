@@ -77,4 +77,4 @@ Os testes usam um cliente HTTP simulado para verificar parâmetros das URLs, lei
 
 ## Entrega
 
-O código-fonte está neste repositório. O relatório PDF e as capturas serão entregues junto ao projeto. Consulte o documento para ver o aplicativo funcionando e a identificação da API.
+O código-fonte está neste repositório. O [relatório PDF](docs/relatorio-clima-agora.pdf) contém seis capturas reais e a identificação da API. As [capturas originais](docs/capturas/) também estão disponíveis. Consulte o documento para ver o aplicativo funcionando.
